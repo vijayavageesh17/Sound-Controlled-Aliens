@@ -1,0 +1,43 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Roboto' sans-serif;
+}
+
+.header_div{
+    background-color: darkgoldenrod;
+    color: greenyellow;
+    
+}
+
+.header_div p{
+    color: indigo;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.main_div button{
+    font-weight: 200;
+    font-family:monospace;
+    letter-spacing: 3px;
+    width:100px ;
+    margin-top: 25px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: tomato;
+    background-color: blanchedalmond;
+    text-shadow: 6px 3px 6px rgb(47, 3, 88);
+    bottom: 0;
+    width:100% ;
+    font-size: 18px;
+    text-align: center;
+    line-height: 2;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
